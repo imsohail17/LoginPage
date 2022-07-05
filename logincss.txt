@@ -1,0 +1,19 @@
+.card-body{
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    position: absolute;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.Login-header{
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.welcome-header{
+    width: 165px;
+    margin-top: 20px;
+    font-size: 25px;
+}
